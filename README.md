@@ -32,4 +32,4 @@ I am actively expanding my technical toolkit to bring my inventive ideas to life
 
 ### 💬 Favorite Quote
 
->> "The best way to predict the future is to invent it." — Alan Kay
+> "The best way to predict the future is to invent it." — Alan Kay
